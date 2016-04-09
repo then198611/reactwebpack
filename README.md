@@ -1,5 +1,8 @@
 react webpack build
+
 need : nodejs env
+
+npm install
 
 npm install -g webpack 
 
